@@ -58,6 +58,10 @@ When registering a prompot, it uses a similarity verification algorithm to preve
 
 Through this, we want to overcome the limitations of NFTs as well as the new Promport market ecosystem.
 
+## Service Video
+
+https://github.com/ABizCho/openprompt-client/assets/65459616/7969ac6e-4a02-41c0-b344-462936ccf82e
+
 ## Getting Started
 
 #### Install
